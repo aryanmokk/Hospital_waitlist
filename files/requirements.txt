@@ -1,0 +1,44 @@
+# Core
+pandas>=2.0
+numpy>=1.24
+requests>=2.31
+python-dotenv>=1.0
+
+# Databases
+pymongo>=4.6
+psycopg2-binary>=2.9
+SQLAlchemy>=2.0
+GeoAlchemy2>=0.14
+
+# Web scraping
+beautifulsoup4>=4.12
+lxml>=4.9
+
+# CSO PxStat
+pyjstat>=2.4
+
+# Geospatial
+geopandas>=0.14
+shapely>=2.0
+openrouteservice>=2.3
+folium>=0.15
+pyarrow>=14.0
+
+# Fuzzy matching
+rapidfuzz>=3.5
+
+# Stats
+statsmodels>=0.14
+scipy>=1.11
+
+# Visualisation
+plotly>=5.18
+seaborn>=0.13
+matplotlib>=3.8
+
+# Dashboard
+dash>=2.14
+dash-bootstrap-components>=1.5
+
+# Dev
+jupyterlab>=4.0
